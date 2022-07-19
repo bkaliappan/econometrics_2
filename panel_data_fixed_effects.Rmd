@@ -8,6 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkaliappan/econometrics_2/main?labpath=panel_data_fixed_effects.Rmd)
 
 ## Panel Data Analysis with R
 
