@@ -1,0 +1,8 @@
+install.packages("plm")
+install.packages("knitr")
+install.packages("broom")
+install.packages("tidyverse")
+install.packages("stargazer")
+install.packages("lmtest")
+install.packages("gplots")
+install.packages("foreign")
